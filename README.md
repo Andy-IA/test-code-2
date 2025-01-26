@@ -1,78 +1,27 @@
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
 # ANDERSON MOTTA ANDRADE COSTA
+
+- **📞 Telefone:** +55 (11) 96732-7439
+- **✉️ E-mail:** anderson200200@hotmail.com
+- **📍 Endereço:** Osasco - SP
+
+---
+
+## Resumo Profissional e Objetivo
+
+Profissional com 16 anos de experiência na Caixa Econômica Federal, tendo atuado tanto na área social quanto na comercial, incluindo setor de Penhor, com passagem também pelo departamento de TI da empresa. Licenciado em Matemática, já fui docente e monitor em projetos relevantes de difusão científica e cultural da Universidade de São Paulo. Sempre em busca de aperfeiçoamento, cursei TI em Gestão Pública e acabei me reencontrando na área de TI. Com pretensão de fazer transição de carreira para área da Tecnologia, continuei estudando e concluí recentemente o bacharelado em TI e estou cursando pós-graduação justamente na área de Ciência de Dados e Big Data Analytics. Sou por natureza um entusiasta dos números, possuo algumas habilidades como criatividade, capacidade de resolução de problemas e determinação, além de curva acelerada de aprendizagem. Acredito que as competências desenvolvidas ao longo dos anos, quando somadas à experiência da atuação na rede, ao conhecimento adquirido, seja do modelo de negócio, sejam dos serviços e de diversos produtos, e principalmente das jornadas práticas de clientes destes vários setores pelos quais passei, podem resultar em insights valiosos e contribuições significativas na transformação que a empresa almeja. Devido à visão interdisciplinar, possuo ainda capacidade de atuar em outras squads e contribuir com a disseminação do conhecimento, que ao meu ver é o meu ponto mais forte.
+
+---
+
+## Experiência
+
+### Caixa Econômica Federal
+
+**Mai/2008 – Atual**
+
+- Ampla experiência no atendimento ao público e conhecimento em produtos e serviços bancários.
+- Atuação no setor social, cuidando da parte social da empresa e executando serviços referentes ao FGTS, PIS, Bolsa Família e demais benefícios sociais.
+- Prática no setor comercial, desde abertura de contas e comercialização de produtos até avaliação de risco de crédito, assim como concessão, renegociação, acompanhamento de métricas.
+- Execução de serviços de caixa bancário, realizando operações variadas, emissão de documentos, pagamentos e cobranças, verificação de autenticidade de assinaturas.
 - No tempo que estive na TI, fiquei lotado no escritório de mobilidade, realizava prospecção de novos produtos juntamente com empresas terceiras, acompanhava o andamento de múltiplas demandas e entrega de artefatos, assim como seus respectivos testes, auxiliando na verificação de aderência ao escopo do projeto, propondo e seguindo casos de uso, facilitando a comunicação entre equipes técnicas e stakeholders.
 - Nos últimos 10 anos, tenho atuado no setor de penhor, realizando avaliação técnica e verificação em joias, relógios e diamantes, utilizados como garantia para operações de crédito penhor, garantindo precisão nos processos e integridade nas operações.
 - Como para muitos clientes esse é o primeiro contato com a instituição, tento fazer prospecção para a fidelização da marca Caixa. Tenho bastante eficiência nisso, até mesmo pela capacidade de transmitir o conceito da operação para diferentes tipos de público e escuta ativa.
@@ -144,4 +93,5 @@
 -  Colecionismo.
 -  Composição Musical.
 - História da Matemática.
+
 
